@@ -1,6 +1,6 @@
 // BY GOD'S GRACE ALONE
 
-const socket = io("ws://localhost:3500")
+const socket = io("https://chatapp-with-socket-io-forchristalo.vercel.app/")
 
 
 const msgInput = document.querySelector("#message")
